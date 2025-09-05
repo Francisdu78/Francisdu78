@@ -1,3 +1,8 @@
-theme: minima
-title: Mon Portfolio
-description: Bienvenue sur mon portfolio hébergé avec GitHub Pages
+title: "Mon Portfolio"
+description: "Bienvenue sur mon portfolio, une vitrine de mes projets et compétences"
+theme: jekyll-theme-cayman
+
+# Options de personnalisation
+show_downloads: false
+
+
